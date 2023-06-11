@@ -8,6 +8,8 @@
 }
 .navigation-line  {
 	background: #0020F4;
+	margin: 17px 500px 10px 130px;
+	padding: 100px;
 }
 .mtavari {
 	width: 70px;
@@ -33,22 +35,25 @@
 	color: #171717;
 	background: #FFFFFF;
 	border-radius: 15px;
+	}
 
 			/*section*/
+
+.construction {
+	max-width: 1195px;
+	height: 600px;
+	object-fit: cover;
+	border-radius: 15px;
+	margin: 0px 105px 2px;
 }
 .image-text {
 	color: #171717;
 	font-size: 28px;
 	width: 714px;
 	height: 33px;
+	margin: 2px 110px;
 }
-.construction {
-	max-width: 1195px;
-	height: 600px;
-	object-fit: cover;
-	border-radius: 15px;
 
-}
 .new-building {
 	width: 219px;
 	height: 219px;
@@ -60,8 +65,20 @@
 	font-size: 16px;
 	color: #171717;
 	text-transform: uppercase;
-	margin: 5px 360px 30px;
+/*	margin-left: auto;	
+	margin-right: auto;*/
+	margin: 0px 360px 18px;
+
 }
 .div-images {
 	margin: 10px 100px;
 }
+
+.add {
+ text-align: center;
+ background-color: #0A22F4;
+ color: #FFFFFF;
+ border-radius: 500px;
+}
+
+
