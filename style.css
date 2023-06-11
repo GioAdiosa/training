@@ -1,3 +1,67 @@
+	/*header*/
+
 .logo {
 	background: #0020F4;
+	width: 115px;
+	height: 65px;
+
+}
+.navigation-line  {
+	background: #0020F4;
+}
+.mtavari {
+	width: 70px;
+	border-: 20px;
+}
+.chven-shesaxeb {
+	width: 95px;
+}
+.servisi {
+	width: 82px;
+}
+.proeqtebi {
+	width: 91px;
+}
+.partniorebi {
+	width: 113px;
+}
+.nav {
+ 	color:#FFFFFF ;
+ 	height: 18px;
+}
+.contact {
+	color: #171717;
+	background: #FFFFFF;
+	border-radius: 15px;
+
+			/*section*/
+}
+.image-text {
+	color: #171717;
+	font-size: 28px;
+	width: 714px;
+	height: 33px;
+}
+.construction {
+	max-width: 1195px;
+	height: 600px;
+	object-fit: cover;
+	border-radius: 15px;
+
+}
+.new-building {
+	width: 219px;
+	height: 219px;
+	object-fit: cover;
+	border-radius: 15px;
+	padding: 7px;
+}
+.text {
+	font-size: 16px;
+	color: #171717;
+	text-transform: uppercase;
+	margin: 5px 360px 30px;
+}
+.div-images {
+	margin: 10px 100px;
 }
